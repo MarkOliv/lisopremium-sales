@@ -73,7 +73,7 @@ const Bonus = (props: Props) => {
           TODO ESSE CONTEÚDO VAI SAIR SOMENTE POR
         </h1>
         <h1 id="kanit" className="text-6xl font-bold text-center mt-10">
-          <span className="text-[#13D460]">R$49,00</span>
+          <span className="text-[#13D460]">R$49,90</span>
         </h1>
       </div>
     </div>
