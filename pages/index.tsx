@@ -14,10 +14,32 @@ import Conteudos from "./components/Conteudos";
 import Perguntas from "./components/Perguntas";
 import Bonus from "./components/Bonus";
 import FAQ from "./components/FAQ";
+import Script from "next/script";
 
 export default function Home() {
   return (
     <div>
+      <Head>
+        <link rel="icon" href="/favicon.ico" />
+        <meta name="author" content="Marcos Oliveira" />
+        <meta name="description" content="Treinamento Liso Premium" />
+        <title>Treinamento Liso Premium</title>
+      </Head>
+
+      <Script
+        strategy="afterInteractive"
+        src="https://www.googletagmanager.com/gtag/js?id=G-CVK0SWR347"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-CVK0SWR347');
+          
+          `}
+      </Script>
+
       <Inicio />
       <Treinamento />
       <Oferta />
