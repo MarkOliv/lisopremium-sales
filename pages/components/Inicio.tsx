@@ -53,7 +53,7 @@ const Inicio = (props: Props) => {
       </div>
       <div className="flex flex-wrap justify-center">
         <a
-          href="https://go.hotmart.com/P84169592I?dp=1"
+          href="https://go.hotmart.com/P84169592I?ap=fbe8"
           id="kanit"
           className="rounded-3xl md:px-28 px-10 py-5 bg-gradient-to-r from-[#c368d1] to-[#ff00e5] md:text-4xl text-3xl font-semibold md:mt-3 mt-14 hover:brightness-75"
         >
