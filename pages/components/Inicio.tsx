@@ -54,7 +54,7 @@ const Inicio = (props: Props) => {
       <div className="flex flex-wrap justify-center">
         <a
           target="_blank"
-          href="https://go.hotmart.com/P84169592I?ap=fbe8"
+          href="https://go.hotmart.com/P84169592I?ap=3ec1"
           id="kanit"
           className="rounded-3xl md:px-28 px-10 py-5 bg-gradient-to-r from-[#c368d1] to-[#ff00e5] md:text-4xl text-3xl font-semibold md:mt-3 mt-14 hover:brightness-75"
         >
