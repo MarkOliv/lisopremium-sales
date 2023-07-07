@@ -34,6 +34,7 @@ const ParaQuem = (props: Props) => {
           </p>
           <div className="flex lg:justify-end justify-center md:p-20">
             <a
+              target="_blank"
               href="https://go.hotmart.com/P84169592I?ap=fbe8"
               id="kanit"
               className="rounded-3xl md:px-14 px-10 py-5 bg-gradient-to-r from-[#c368d1] to-[#ff00e5] md:text-4xl text-3xl font-semibold md:mt-3 mt-14 text-center hover:brightness-75"
