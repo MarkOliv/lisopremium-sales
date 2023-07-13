@@ -29,7 +29,7 @@ const Treinamento = () => {
           PROGRESSIVA{" "}
         </h3>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-3 p-5 md:p-28 gap-12">
+      <div className="grid grid-cols-1 md:grid-cols-3 p-20 md:p-28 gap-12">
         <div>
           <Image src={cabelo01} alt="cabelo01" />
         </div>

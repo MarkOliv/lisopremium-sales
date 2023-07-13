@@ -9,7 +9,7 @@ const Oferta = () => {
   return (
     <div id="part3" className="container mx-auto">
       <div className="flex flex-wrap justify-center md:mb-32 p-5 md:p-0">
-        <div className="w-[800px] mt-5">
+        <div className="w-[800px] mt-5 p-40">
           <Image src={oferta} alt="oferta" />
         </div>
         <div className="flex lg:justify-center justify-center px-10 w-full">
@@ -17,7 +17,7 @@ const Oferta = () => {
             target="_blank"
             href="https://go.hotmart.com/P84169592I?ap=3ec1"
             id="kanit"
-            className="rounded-3xl md:px-14 px-10 py-5 bg-gradient-to-r from-[#c368d1] to-[#ff00e5] md:text-7xl text-3xl font-semibold md:mt-3 mt-14 text-center hover:brightness-75"
+            className="rounded-3xl md:px-5 px-10 py-5 bg-gradient-to-r from-[#c368d1] to-[#ff00e5] md:text-5xl text-3xl font-semibold md:mt-3 mt-14 text-center hover:brightness-75"
           >
             APROVEITAR OFERTA
           </a>

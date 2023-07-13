@@ -45,7 +45,6 @@ export default function Home() {
       <Oferta />
       <Questionamentos />
       <ParaQuem />
-      <Garantia />
       <Conteudos />
       <Perguntas />
       <Garantia />

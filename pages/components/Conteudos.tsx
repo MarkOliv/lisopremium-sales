@@ -23,49 +23,49 @@ const Conteudos = (props: Props) => {
         <div id="texto" className="grid grid-cols-1 p-10">
           <p
             id="kanit"
-            className="text-3xl text-center my-5 md:text-left font-bold"
+            className="md:text-3xl text-center my-5 md:text-left font-bold"
           >
             • O QUE VAI TE DIFERENCIAR DOS SEUS CONCORRENTES. 
           </p>
           <p
             id="kanit"
-            className="text-3xl text-center my-5 md:text-left font-bold"
+            className="md:text-3xl text-center my-5 md:text-left font-bold"
           >
             • ANALISE DOS FIOS HIGIENIZAÇÃO DOS FIOS 
           </p>
           <p
             id="kanit"
-            className="text-3xl text-center my-5 md:text-left font-bold"
+            className="md:text-3xl text-center my-5 md:text-left font-bold"
           >
             • CRISTALIZAÇÃO APLICAÇÃO DO PRODUTO 
           </p>
           <p
             id="kanit"
-            className="text-3xl text-center my-5 md:text-left font-bold"
+            className="md:text-3xl text-center my-5 md:text-left font-bold"
           >
             • TEMPO DE PAUSA PARA CADA TIPO DE CABELO 
           </p>
           <p
             id="kanit"
-            className="text-3xl text-center my-5 md:text-left font-bold"
+            className="md:text-3xl text-center my-5 md:text-left font-bold"
           >
             • RETIRADA DO PRODUTO SECAGEM E SECAGEM EXPRESS
           </p>
           <p
             id="kanit"
-            className="text-3xl text-center my-5 md:text-left font-bold"
+            className="md:text-3xl text-center my-5 md:text-left font-bold"
           >
             • CHAPINHA CRIATIVA
           </p>
           <p
             id="kanit"
-            className="text-3xl text-center my-5 md:text-left font-bold"
+            className="md:text-3xl text-center my-5 md:text-left font-bold"
           >
             • ALISAMENTO NO CABELO TODO
           </p>
           <p
             id="kanit"
-            className="text-3xl text-center my-5 md:text-left font-bold"
+            className="md:text-3xl text-center my-5 md:text-left font-bold"
           >
             • RETOQUE DE RAIZ E CRISTALIZAÇÃO
           </p>

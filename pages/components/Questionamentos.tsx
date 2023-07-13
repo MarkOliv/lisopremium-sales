@@ -18,9 +18,9 @@ const Questionamentos = (props: Props) => {
         </h1>
       </div>
       <div className="grid grid-cols-1 grid-rows-4 md:px-20 px-5">
-        <div className="flex flex-wrap md:flex-nowrap my-10 md:justify-start justify-center ">
+        <div className="flex flex-wrap md:flex-nowrap md:my-10 md:justify-start justify-center ">
           <div className="flex justify-center w-full md:w-auto">
-            <div className="flex justify-center items-center h-32 w-32 rounded-full bg-gradient-to-t from-[#C368D1] to-[#FF00E5] m-5">
+            <div className="flex justify-center items-center h-28 w-28 md:h-32 md:w-32 rounded-full bg-gradient-to-t from-[#C368D1] to-[#FF00E5] m-5">
               <span id="kanit" className="text-6xl font-bold ">
                 ?
               </span>
@@ -28,7 +28,7 @@ const Questionamentos = (props: Props) => {
           </div>
           <h1
             id="kanit"
-            className="w-[800px] flex justify-center items-center text-center md:text-left md:text-2xl lg:text-3xl"
+            className="-mt-40 md:mt-0 w-[800px] flex justify-center items-center text-center md:text-left md:text-2xl lg:text-3xl"
           >
             Fica aí gastando horrores em produtos caros e mesmo assim os seus
             ALISAMENTOS não ficam perfeitos?
@@ -44,7 +44,7 @@ const Questionamentos = (props: Props) => {
           </div>
           <h1
             id="kanit"
-            className="w-[800px] flex justify-center items-center text-center md:text-2xl text-center lg:text-3xl md:text-right"
+            className="-mt-40 md:mt-0 w-[800px] flex justify-center items-center text-center md:text-2xl text-center lg:text-3xl md:text-right"
           >
             Não sabe qual tempo de pausa do produto para cada espessura de fio
             de cabelo?
